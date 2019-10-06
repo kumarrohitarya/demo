@@ -1,4 +1,5 @@
-define func
-   x,y
+define func (x,y):
+    a=x-y
+    b=x/y
    
-   result(x+2y)
+   return(result)
